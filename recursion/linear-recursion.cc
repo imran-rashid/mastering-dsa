@@ -11,9 +11,9 @@ otherwise it will be infinite recursive call
         * if anything below recursion call then it will print returning time 
 */
 
+// if a recursive function is calling itself and it is processed all operation calling and returning 
+// time then it is called linear recursion.
 
-// if a recursive function calling itself and it is processed operation calling and returning 
-// time then it is called linear recursion or recursion.
 #include <iostream>
 
 // time and space is O(n)
