@@ -22,7 +22,6 @@ def power(x, y):
 		if y & 1:
 			res *= x
 
-		# when even
 		y //= 2
 		x *= x
 
