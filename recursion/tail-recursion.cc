@@ -1,8 +1,7 @@
 /**
  * tail recursion is processing at calling time ...
- * if a recursive function is calling itself and that function call is the last statement in the program 
- * then it is called tail recursion. tail recursion processed every operation in calling time. 
- * returning time just simply return.
+ * if a recursive function is calling itself and that function call is the last statement in the program. 
+ * then it is called tail recursion. tail recursion processed every operation in calling time. returning time just simply return.
 
  * time & space complexity of below function is O(n)
  * so, if we've to write program where tail is necessary better use loop instead of tail for optimization.
