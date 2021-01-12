@@ -6,7 +6,7 @@
 # time complexity is O(logn)
 def power2(m, n):
 	if n > 0:
-		# when y is odd
+		# when n is odd
 		if n & 1:
 			return m*power2(m*m, n//2)
 		return power2(m*m, n//2)
