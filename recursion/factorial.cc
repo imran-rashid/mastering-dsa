@@ -3,7 +3,7 @@
 #include <iostream>
 using namespace std;
 
-// time & spce complexity is O(n)
+// time & space complexity is O(n)
 // fact(n) = 1*2*3*4....*(n-1)*n
 // fact(n) = fact(n-1) * n
 int recursiveFactorial(int n){
