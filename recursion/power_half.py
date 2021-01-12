@@ -28,6 +28,5 @@ def power(x, y):
 
 	return res
 
-
 print(power2(2, 9))
 print(power(2, 9))
